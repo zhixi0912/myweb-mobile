@@ -1,6 +1,7 @@
 # moveweb
 
 > A Vue.js project
+基于muse-ui的移动项目
 
 ## Build Setup
 
