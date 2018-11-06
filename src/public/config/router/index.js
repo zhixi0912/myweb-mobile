@@ -7,6 +7,7 @@ import musicPlay from '@/pages/musicPlay/musicPlay'
 Vue.use(Router)
 
 export default new Router({
+  mode: 'history',
   routes: [
     {
       path: '/',

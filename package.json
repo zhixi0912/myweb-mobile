@@ -18,7 +18,7 @@
     "axios": "^0.18.0",
     "muse-ui": "^3.0.1",
     "vue": "^2.5.2",
-    "vue-fullpage.js": "0.0.7",
+    "vue-fullpage.js": "0.0.8",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {

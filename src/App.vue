@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <!--<img src="./assets/logo.png">-->
     <router-view/>
   </div>
 </template>
@@ -20,11 +19,5 @@ export default {
   /*color: #2c3e50;*/
   /*margin-top: 60px;*/
 }
-.mu-card-text{
-  word-break:break-all;
-}
-.mu-card-text img {
-  max-width: 100%;
-  height: auto;
-}
+
 </style>
